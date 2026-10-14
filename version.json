@@ -1,6 +1,7 @@
 {
-  "version": "1.0.0",
-  "zipUrl": "https://github.com/aldairrxz17/rxz-launcher-updates/releases/download/v1.2.0/modpack.zip",
+  "version": "1.0.1",
   "gameVersion": "1.21.1",
-  "customVersion": "neoforge-21.1.248"
+  "customVersion": "neoforge-21.1.248",
+  "assetsZipUrl": "ENLACE_AL_ZIP_CON_LA_CARPETA_ASSETS",
+  "zipUrl": "ENLACE_AL_ZIP_DEL_MODPACK_SIN_ASSETS"
 }
