@@ -2,6 +2,6 @@
   "version": "1.0.1",
   "gameVersion": "1.21.1",
   "customVersion": "neoforge-21.1.248",
-  "assetsZipUrl": "ENLACE_AL_ZIP_CON_LA_CARPETA_ASSETS",
-  "zipUrl": "ENLACE_AL_ZIP_DEL_MODPACK_SIN_ASSETS"
+  "assetsZipUrl": "https://github.com/aldairrxz17/rxz-launcher-updates/releases/download/assets/assets.zip",
+  "zipUrl": "https://github.com/aldairrxz17/rxz-launcher-updates/releases/download/v1.0.0/sawgames_v1.zip"
 }
